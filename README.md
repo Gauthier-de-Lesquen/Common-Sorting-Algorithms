@@ -9,4 +9,25 @@ there are in those files 6 sorting algorithms and 2 searching others. There are 
 ```binarySearch(array, [size], target)``` : to search the index of the target in a SORTED array \
 ```linearSearch(array, [size], target)``` : to search the index of the target in every array \
 ### The sorting ones:
-```bubbleSort(array, [size])``` \ ```selectionSort(array, [...])``` \ ```insertionSort(array)``` \ ```quickSort(arr)``` \ ```mergeSort(arr)``` \ ```heapSort(arr)```
+```bubbleSort(array, [size])```
+
+
+
+```selectionSort(array, [...])```
+
+
+
+```insertionSort(array)``` 
+
+
+
+```quickSort(arr)``` 
+
+
+
+```mergeSort(arr)``` 
+
+
+
+```heapSort(arr)```
+
