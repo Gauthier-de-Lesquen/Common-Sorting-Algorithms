@@ -10,13 +10,8 @@ there are in those files 6 sorting algorithms and 2 searching others. There are 
 ```linearSearch(array, [size], target)``` : to search the index of the target in every array \
 ### The sorting ones:
 ```bubbleSort(array, [size])```
-
 ```selectionSort(array, [...])```
-
 ```insertionSort(array)``` 
-
 ```quickSort(arr)``` 
-
 ```mergeSort(arr)``` 
-
 ```heapSort(arr)```
