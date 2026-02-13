@@ -7,7 +7,7 @@ there are in those files 6 sorting algorithms and 2 searching others. There are 
 ## Which are these functions ?
 ### The searching ones:
 ```binarySearch(array, [size], target)``` : to search the index of the target in a SORTED array \
-```linearSearch(array, [size], target)``` : to search the index of the target in every array \
+```linearSearch(array, [size], target)``` : to search the index of the target in every array
 ### The sorting ones:
 * ```bubbleSort(array, [size])```
 * ```selectionSort(array, [...])```
